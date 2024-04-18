@@ -1,3 +1,3 @@
 # transfer-repository
 
-Transfered repository. 
+Transferred repository.
